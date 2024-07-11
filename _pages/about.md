@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>https://fpt.edu.vn</a>FPT University, Ho Chi Minh Campus.
+subtitle: <a href='https://fpt.edu.vn'>FPT University, Ho Chi Minh Campus.</a>
 
 profile:
   align: right
