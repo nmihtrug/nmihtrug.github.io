@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Nguyen Minh Trung
     - name: Date of Birth
-      value: 14th March 1879
+      value: 7th August 2024
     - name: Languages
-      value: English, German
+      value: Vietnamese, English
 
 - title: Education
   type: time_table
