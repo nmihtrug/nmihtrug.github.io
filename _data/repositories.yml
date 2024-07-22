@@ -1,9 +1,9 @@
 github_users:
-  - TrungAzieL
+  - nmihtrug
 
 repo_description_lines_max: 2
 
 github_repos:
-  - TrungAzieL/DistilSER
-  - TrungAzieL/HandGestureRecognition
-  - TrungAzieL/NFTs-Minter
+  - nmihtrug/DistilSER
+  - nmihtrug/HandGestureRecognition
+  - nmihtrug/NFTs-Minter
