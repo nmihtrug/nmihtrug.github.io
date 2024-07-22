@@ -17,6 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Short Bio:** My name is **<i>Nguyễn Minh Trung</i>** - Vietnamese. I am currently a second-year Student at Department of Computing Fundamental, <a href="https://fpt.edu.vn">FPT University</a>, Viet Nam. Curently I am working as an AI researcher under the supervision of Dr. <a href="https://dnmduc.github.io/">Duc Ngoc Minh Dang</a>.
+**Short Bio:** My name is **<i>Nguyễn Minh Trung</i>** - Vietnamese. I am currently a second-year Student at Department of Computing Fundamental, <a href="https://fpt.edu.vn">FPT University</a>, Viet Nam. Curently I am working as an AI researcher under the supervision of <a href="https://dnmduc.github.io/">Dr. Duc Ngoc Minh Dang</a>.
 
 **Research Interests:** Artificial Intelligence, Computational Intelligence, Deep Learning, Machine Learning.
