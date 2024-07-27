@@ -17,8 +17,10 @@ $green-color-dark: #009f06 !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
 $purple-color: #b509ac !default;
+$purple-color-dark: #970a90 !default;
 $light-purple-color: lighten($purple-color, 25%);
 $pink-color: #f92080 !default;
+$pink-color-dark: #d11d6e !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
@@ -29,6 +31,15 @@ $grey-900: #212529;
 
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
+
+// Monokai theme color
+$monokai-bg-color: #272822;
+$monokai-theme-color: #66d9ef;
+$monokai-hover-color: #59afc0;
+
+$dracula-bg-color: #141321;
+$dracula-theme-color: #a1fdfa;
+$dracula-hover-color: #77ccc9;
 
 // Theme colors
 

@@ -48,16 +48,22 @@
   "awards": [
     {
       "title": "Top 5 Excellent Team of Solona FPT Bootcamp",
-      "date": "2024-10-07",
+      "date": "2024-07-10",
       "awarder": "Superteam Vietnam",
       "url": "https://github.com/nmihtrug/NFTs-Minter.git",
       "summary": "Create 'NFT's Minter' project that help users to mint and create NFTs with AI"
     },
     {
       "title": "Top 100 Outstanding Students of Spring 2024, FPT University",
-      "date": "2024-08-06",
-      "awarder": "FPT University",
+      "date": "2024-06-08",
+      "awarder": "FPT University Ho Chi Minh",
       "summary": "GPA: 3.7/4.0"
+    },
+    {
+      "title": "70% Scholarship",
+      "date": "2022-08-14",
+      "awarder": "FPT University Ho Chi Minh",
+      "summary": "The scholarship is awarded to excellent students having participated in the FPT entrance test"
     }
   ],
   "languages": [
