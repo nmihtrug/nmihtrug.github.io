@@ -6,7 +6,7 @@ subtitle: <a href='https://fpt.edu.vn'>FPT University, Ho Chi Minh Campus.</a>
 
 profile:
   align: right
-  image: prof_pic_2.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>District 9,</p>
