@@ -5,5 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - nmihtrug/DistilSER
-  - nmihtrug/HandGestureRecognition
   - nmihtrug/NFTs-Minter
+  - nmihtrug/SnakeGameWithAI
+  - nmihtrug/Pytorch-Classifier
+  - nmihtrug/HandGestureRecognition
